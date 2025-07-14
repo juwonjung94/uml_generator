@@ -1,6 +1,3 @@
-# uml_generator
-
-
 # UML Generator (with React + Tailwind + Mermaid)
 
 This is a web-based UML diagram generator that allows you to write **Mermaid UML code** and instantly visualize the result.  
